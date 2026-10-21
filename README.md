@@ -5,17 +5,18 @@ Proyek UTS mata kuliah Graf Sains Data. Notebook `Graph.ipynb` menyimpan data in
 ## Struktur proyek
 
 ```text
-project/
-├── Graph.ipynb
-├── requirements.txt
-├── README.md
-├── img/
-│   ├── visualisasi_sebelum_similarity.png
-│   └── visualisasi_sesudah_similarity.png
-└── data/
-    ├── events.csv       # disediakan sendiri
-    ├── events_P1.csv    # dihasilkan notebook
-    └── events_P2.csv    # dihasilkan notebook
+Project\
+├──Readme
+└── GSDD
+    ├── Graph.ipynb
+    ├── requirements.txt
+    ├── img/
+    │   ├── visualisasi_sebelum_similarity.png
+    │   └── visualisasi_sesudah_similarity.png
+    └── data/
+        ├── events.csv       # disediakan sendiri
+        ├── events_P1.csv    # dihasilkan notebook
+        └── events_P2.csv    # dihasilkan notebook
 ```
 
 ## Graph.ipynb
